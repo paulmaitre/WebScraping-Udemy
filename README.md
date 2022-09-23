@@ -7,9 +7,6 @@ REQUIREMENTS:
 
 Images Folder: screens of each dataframe obtain for each python script.
 
-NFL
-![screen_dataframe_NFL](https://user-images.githubusercontent.com/97626420/191872889-c4e84073-4fbb-4ab5-9517-498a6fceceb4.jpg)
-
 NIKE
 ![screen_dataframe_NIKE](https://user-images.githubusercontent.com/97626420/191872959-7874a3f9-3b16-4628-8783-6306d9d35dec.jpg)
 
