@@ -5,4 +5,4 @@ REQUIREMENTS:
 - lib: selenium, beautifulsoup4
 - install chromedriver 
 
-Images Folder: Contains screen of each dataframe obtain by getting data from of web page
+Images Folder: screens of each dataframe obtain for each python script.
