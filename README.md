@@ -11,7 +11,7 @@ NFL
 ![screen_dataframe_NFL](https://user-images.githubusercontent.com/97626420/191872889-c4e84073-4fbb-4ab5-9517-498a6fceceb4.jpg)
 
 NIKE
-[screen_dataframe_INDEED](https://user-images.githubusercontent.com/97626420/191872826-786bb571-f1b8-4fd7-b466-3ae248877bb2.jpg)
+![screen_dataframe_NIKE](https://user-images.githubusercontent.com/97626420/191872959-7874a3f9-3b16-4628-8783-6306d9d35dec.jpg)
 
 INDEED
 ![screen_dataframe_INDEED](https://user-images.githubusercontent.com/97626420/191872896-1d8bb0dc-9c5a-4475-935f-d1232f8f9ceb.jpg)
