@@ -1,12 +1,11 @@
 # WebScraping Python Scripts 
 Repos of my work produce during my online-course Web Scraping in Python With BeautifulSoup and Selenium 2022 from Udemy.
 
-------- REQUIREMENTS: 
+------- Requirements -------
 - lib: selenium, beautifulsoup4
 - install chromedriver 
 
-------- RESULTS 
-
+------- Results -------
 NFL
 ![screen_dataframe_NFL](https://user-images.githubusercontent.com/97626420/191873086-297fdfaa-4196-4446-a703-3dde590ed228.jpg)
 
