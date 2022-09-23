@@ -13,5 +13,5 @@ NIKE
 INDEED
 ![screen_dataframe_INDEED](https://user-images.githubusercontent.com/97626420/191872896-1d8bb0dc-9c5a-4475-935f-d1232f8f9ceb.jpg)
 
-TWITTER!
-[screen_dataframe_TWITTER](https://user-images.githubusercontent.com/97626420/191872901-75208640-29b4-4f63-9c64-2edf68d4b1c8.jpg)
+TWITTER
+![screen_dataframe_TWITTER](https://user-images.githubusercontent.com/97626420/191872901-75208640-29b4-4f63-9c64-2edf68d4b1c8.jpg)
