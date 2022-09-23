@@ -5,7 +5,9 @@ REQUIREMENTS:
 - lib: selenium, beautifulsoup4
 - install chromedriver 
 
-Images Folder: screens of each dataframe obtain for each python script.
+------- RESULTS 
+NFL
+![screen_dataframe_NFL](https://user-images.githubusercontent.com/97626420/191873086-297fdfaa-4196-4446-a703-3dde590ed228.jpg)
 
 NIKE
 ![screen_dataframe_NIKE](https://user-images.githubusercontent.com/97626420/191872959-7874a3f9-3b16-4628-8783-6306d9d35dec.jpg)
